@@ -1,4 +1,4 @@
 {
-"url": "https://github.com/khengyun/promotion/",
-"text": "Fcoder"
+url: "https://github.com/khengyun/promotion/",
+text: "Fcoder"
 }
